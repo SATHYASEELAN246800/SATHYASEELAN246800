@@ -111,7 +111,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/emoji/48/mobile-phone.png" title="Mobile UI" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/slider.png" title="Widgets" width="40"/>
+  <img src="https://img.icons8.com/color/48/widgets.png" title="Widgets" width="40"/>
   <img src="https://img.icons8.com/3d-fluency/94/paint-palette.png" title="Themes & Icons" width="40"/>
   <img src="https://img.icons8.com/emoji/48/wrench-emoji.png" title="Tweaks / ROMs" width="40"/>
   <img src="https://img.icons8.com/external-others-phat-plus/64/external-widget-ui-essentials-others-phat-plus.png" title="Advanced Widgets" width="40"/>
