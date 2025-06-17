@@ -5,11 +5,6 @@
 </p>
 
 ---
-
-
-
-
-
 ## 👨‍💻 About Sathya
 
 **Sathya Seelan**  
@@ -84,272 +79,9 @@
 > 🚀 Total Projects Completed: **30+**
 
 ---
-## 📊 AI Tools Categorized with Use‑Case Descriptions
-
-| **Category**                         | **Tool**                          | **Use Case Description** |
-|-------------------------------------|-----------------------------------|---------------------------|
-| **General AI Assistants & Chatbots** | ChatGPT                           | Conversational AI assistant |
-|                                     | Gemini                            | Conversational AI assistant |
-|                                     | Meta AI                           | Conversational AI assistant |
-|                                     | Claude                            | Conversational AI assistant |
-|                                     | Anthropic                         | Conversational AI assistant |
-|                                     | Perplexity AI                     | Conversational AI search/chat |
-|                                     | Grok                              | Conversational AI assistant |
-|                                     | DeepSeek                          | Conversational AI search |
-|                                     | Jasper AI                         | Content creation assistant |
-|                                     | You.com                           | Conversational AI search |
-|                                     | Pi AI                             | Conversational AI assistant |
-|                                     | Zapier Agents                     | Automation chatbot |
-|                                     | Andi                              | Conversational AI search |
-|                                     | Personal AI                       | Personal assistant chatbot |
-|                                     | Zapier Chatbots                   | Automation chatbot |
-| **Data Science, ML & Analytics**    | TensorFlow                        | ML framework |
-|                                     | PyTorch                           | ML framework |
-|                                     | Keras                             | Neural‑network framework |
-|                                     | Scikit‑learn                      | ML library |
-|                                     | XGBoost                           | Gradient‑boosting ML |
-|                                     | LightGBM                          | Gradient‑boosting ML |
-|                                     | FastAI                            | ML library for fast prototyping |
-|                                     | H2O.ai                            | Automated ML platform |
-|                                     | DataRobot                         | Automated ML platform |
-|                                     | IBM Watson Studio                 | Enterprise ML platform |
-|                                     | KNIME                             | Data analytics platform |
-|                                     | RapidMiner                        | Data science platform |
-|                                     | Alteryx                           | Data prep & analytics |
-|                                     | Tableau                           | BI & data visualization |
-|                                     | Surfer                            | SEO & data analytics |
-|                                     | Dataiku                           | Enterprise ML platform |
-|                                     | Orange                            | Open‑source data mining |
-|                                     | Datarama                          | Data analytics |
-|                                     | BigML                             | ML automation |
-|                                     | Weka                              | ML application suite |
-|                                     | MLflow                            | ML experiment tracking |
-|                                     | DVC                               | ML data version control |
-| **Deep Learning & Computer Vision** | OpenCV                            | Computer vision library |
-|                                     | YOLO                              | Real‑time object detection |
-|                                     | Detectron2                        | Object detection system |
-|                                     | Caffe                             | DL framework |
-|                                     | DeepFaceLab                       | Face‑swap & face detection |
-|                                     | PaddlePaddle                      | DL platform |
-|                                     | MMDetection                       | Object detection toolbox |
-|                                     | Face++ API                        | Facial recognition API |
-|                                     | Clarifai                          | Visual recognition API |
-|                                     | DeepArt                           | Style transfer generation |
-|                                     | Deep Dream Generator              | Neural art generation |
-| **Full Stack & Developer AI Tools** | GitHub Copilot                    | AI Code completion |
-|                                     | Tabnine                           | AI Code completion |
-|                                     | Amazon CodeWhisperer              | AI Code generation |
-|                                     | CodeT5                            | Transformer code model |
-|                                     | Cursor AI                         | AI code assistant |
-|                                     | Replit AI                         | AI code assistance in cloud IDE |
-|                                     | Qodo                              | AI‑powered coding |
-|                                     | Bubble                            | No‑code app builder |
-|                                     | Bolt                              | UI‑driven web builder |
-|                                     | Lovable                           | ? (unspecified developer AI) |
-|                                     | v0                                | AI website/data scaffolding |
-|                                     | Super.so                          | AI‑powered landing pages |
-|                                     | Kite                              | AI Code completion |
-|                                     | Codiga                            | Code analysis assistant |
-|                                     | Snyk AI                           | AI‑powered security scanner |
-| **Cloud AI & Machine Learning Platforms** | Google Cloud AI              | Cloud ML services |
-|                                     | Amazon SageMaker                 | Cloud ML services |
-|                                     | Microsoft Azure AI               | Cloud ML services |
-|                                     | Oracle Cloud AI                  | Cloud ML services |
-|                                     | Alibaba Cloud AI                 | Cloud ML services |
-|                                     | IBM Cloud AI                     | Cloud ML services |
-|                                     | Hivenet Compute                  | Cloud compute platform |
-|                                     | Huawei Cloud AI                  | Cloud ML services |
-|                                     | Databricks                       | Cloud ML & analysis |
-|                                     | Snowflake AI                     | Cloud ML warehouse |
-|                                     | Paperspace                       | Cloud GPU/ML hosting |
-| **Audio Productivity Tools**        | ElevenLabs                       | Text‑to‑speech |
-|                                     | Murf AI                           | Voice cloning/text‑to‑speech |
-|                                     | Descript                          | Audio editing/transcription |
-|                                     | Krisp                             | Noise‑cancellation |
-|                                     | Cleanvoice AI                     | Podcast audio cleanup |
-|                                     | Riverside AI                      | Remote podcast recording |
-|                                     | Podcastle                         | Audio/video podcast tool |
-|                                     | Auphonic                          | Audio post‑production |
-|                                     | AudioShake                        | AI audio source separation |
-| **Video Productivity Tools**        | Synthesia                         | AI video synthesis |
-|                                     | Runway                            | AI video editing |
-|                                     | OpusClip                          | Video clipping |
-|                                     | Pictory                           | Video creation from text |
-|                                     | Filmora AI                        | AI video editing |
-|                                     | DeepBrain                         | AI video generation |
-|                                     | VEED                              | Online video editor |
-|                                     | Lumen5                            | Video from text + media |
-|                                     | InVideo                           | Online video editor |
-|                                     | Wisecut                           | Auto‑cut video editor |
-|                                     | HeyGen                            | AI video generator |
-| **Image Productivity Tools**        | Midjourney                        | AI image creation |
-|                                     | DALL‑E                            | AI image generation |
-|                                     | Stable Diffusion                 | Open‑source image AI |
-|                                     | Canva Magic Studio               | AI design features |
-|                                     | Adobe Firefly                    | AI image generation |
-|                                     | Looka                             | AI‑powered logo design |
-|                                     | Ideogram                          | Text‑to‑image |
-|                                     | ImgLarger                         | AI upscaling |
-|                                     | Remove.bg                         | Background removal |
-|                                     | Deep Dream Generator             | Neural art |
-|                                     | Let's Enhance                    | Image enhancement |
-|                                     | Remini                            | Photo enhancement |
-|                                     | ClipDrop                          | Image editing AI |
-|                                     | Fotor AI                          | Online AI image edits |
-|                                     | Artbreeder                       | Collaborative art creation |
-| **Music Generation Tools**          | Suno AI                          | AI music composition |
-|                                     | Udio                              | AI music creation |
-|                                     | AIVA                              | AI composer |
-|                                     | Soundraw                           | Music generation |
-|                                     | Boomy                             | Music generation |
-|                                     | Amper Music                      | Music composition |
-|                                     | Loudly                            | Music creation |
-|                                     | Beatoven.ai                       | AI music generation |
-|                                     | Ecrett Music                     | Music generation |
-| **Writing & Content Creation**      | Rytr                             | AI writing assistant |
-|                                     | Sudowrite                        | Creative writing help |
-|                                     | Grammarly                        | Grammar checking |
-|                                     | Wordtune                          | Rewriting/paraphrasing |
-|                                     | Jasper AI                         | Content creation |
-|                                     | Copy.ai                           | Copywriting assistant |
-|                                     | Copymatic                        | Copywriting assistant |
-|                                     | AI Writer                         | Automated writing |
-|                                     | Writesonic                        | AI content creation |
-|                                     | Anyword                          | AI copy optimization |
-|                                     | Ink for All                      | SEO writing AI |
-|                                     | Frase                            | Content research/writing |
-|                                     | Textio                            | Augmented writing |
-|                                     | ProWritingAid                    | Writing style improvement |
-|                                     | Aiseo.ai                          | SEO content AI |
-| **Notetaking & Meeting Assistants** | Fathom                            | Meeting summary |
-|                                     | Nyota                             | Meeting assistant |
-|                                     | Otter.ai                          | Transcription & notes |
-|                                     | Fireflies                         | Meeting assistant |
-|                                     | Avoma                             | Meeting AI assistant |
-|                                     | tl;dv                             | Video meeting highlights |
-|                                     | Fellow                            | Meeting collaboration |
-|                                     | Supernormal                      | Meeting summary |
-|                                     | Sembly AI                        | AI meeting summary |
-| **Project Management & Productivity**| Asana AI                         | Task/project automation |
-|                                     | ClickUp AI                       | Task/project automation |
-|                                     | Notion AI Q&A                    | Smart docs & querying |
-|                                     | Guru                              | Knowledge documentation |
-|                                     | Taskade                           | Team productivity app |
-|                                     | Mem                               | Personal knowledge management |
-|                                     | Reclaim                           | Calendar productivity |
-|                                     | Clockwise                         | Calendar smart scheduling |
-|                                     | Trello AI                         | Task board automation |
-|                                     | Monday.com AI                     | Team workflow AI |
-| **Email & Communication**           | Hubspot Email Writer              | Sales email generation |
-|                                     | SaneBox                           | Email prioritization |
-|                                     | Shortwave                        | Smart email management |
-|                                     | Microsoft Copilot Pro for Outlook | Email AI plugin |
-|                                     | Gemini for Gmail                  | Email assistance |
-|                                     | Superhuman AI                     | Email triage |
-|                                     | Flowrite                          | Email writing assistant |
-| **Presentations & Slides**         | Gamma                             | AI slide generation |
-|                                     | Presentations.ai                 | Slide content AI |
-|                                     | Tome                              | AI storytelling presentations |
-|                                     | Beautiful.ai                     | Design‑focused slide builder |
-|                                     | Slidesgo                          | Template‑based presentations |
-|                                     | Pitch AI                          | Pitch deck assistant |
-|                                     | Slidebean                         | AI pitch deck creator |
-| **Resume & Recruitment**           | Teal                              | Career management AI |
-|                                     | Kickresume                       | AI resume builder |
-|                                     | Enhancv                           | Resume design AI |
-|                                     | CVViZ                             | Recruitment AI |
-|                                     | Rezi                              | AI resume optimization |
-|                                     | Resume.io                         | Resume creation |
-|                                     | Jobscan                           | ATS optimization |
-| **IT & Business Operations**       | Tidio AI                          | AI chatbot for support |
-|                                     | Hiver                             | Shared inbox AI |
-|                                     | Harvey (legal AI)                | Legal document AI |
-|                                     | Liner                             | Content highlight AI |
-|                                     | BatchTable                       | Image/metadata AI |
-|                                     | Chance AI                         | ? (unspecified business AI) |
-|                                     | ActiveCampaign                   | Marketing automation |
-|                                     | AdCreative.ai                     | Ad copy/visual creation |
-|                                     | Aidaptive                         | AI personalization |
-|                                     | AI Lawyer                         | Legal assistance AI |
-|                                     | Alan.app                          | Voice UI builder |
-|                                     | Andisearch                        | AI search engine |
-|                                     | FeedHive                          | Social content AI |
-|                                     | Vista Social                      | Social media management |
-|                                     | Buffer                           | Social publishing |
-|                                     | Lately AI                        | Social post automation |
-|                                     | Feedly AI                        | News feed AI |
-|                                     | Crystal Knows                     | Personality AI for sales |
-| **Automation & Integration**       | Zapier                            | Workflow automation |
-|                                     | n8n                              | Workflow automation |
-|                                     | Make (formerly Integromat)        | Workflow automation |
-|                                     | Automate.io                       | Workflow automation |
-|                                     | Tray.io                           | Integration platform |
-|                                     | Parabola                         | Data workflow automation |
-|                                     | Pabbly Connect                   | Workflow automation |
-| **Search & Research**              | Perplexity AI                    | AI-powered research |
-|                                     | Deep Research                    | Academic search AI |
-|                                     | NotebookLM                       | Research notebook AI |
-|                                     | Arc Search                       | Intelligent search |
-|                                     | Google AI Overviews              | Search summarization |
-|                                     | Consensus                        | Evidence-based answers |
-|                                     | Elicit                            | Research assistant |
-|                                     | Scite                             | Scientific citation AI |
-| **Knowledge Management**          | Notion AI Q&A                     | Docs + AI querying |
-|                                     | Guru                              | Team knowledge base |
-|                                     | Mem                               | Personal knowledge journaling |
-|                                     | Obsidian AI                       | Markdown knowledge AI |
-|                                     | Slite AI                          | Team note assistant |
-| **Social Media & Marketing**      | AdCreative                        | Ad creative design AI |
-|                                     | FeedHive                          | Social scheduling AI |
-|                                     | Vista Social                      | Social analytics AI |
-|                                     | Buffer                           | Social publishing |
-|                                     | Lately AI                        | Social post automation |
-|                                     | Hootsuite AI                     | Social media AI |
-|                                     | SocialBee AI                     | Social post AI |
-|                                     | Ocoya                             | Social media content generator |
-| **Legal, Sales & Specialized AI** | Harvey                            | Contract/review AI |
-|                                     | Legal Robot                      | Legal document review |
-|                                     | Lawgeex                           | Contract analysis |
-|                                     | Diligen                           | Contract analytics |
-|                                     | Contractbook AI                  | Contract creation AI |
-|                                     | Gong.io                           | Sales conversation analytics |
-|                                     | Chorus AI                        | Sales call analysis |
-|                                     | Drift AI                          | Conversational sales AI |
-|                                     | People.ai                          | Sales activity AI |
-|                                     | Outreach AI                      | Sales engagement AI |
-| **Design & Branding**             | Looka                             | Logo generator |
-|                                     | LogoAI                           | Logo generation |
-|                                     | Brandmark                        | Brand kit AI |
-|                                     | Hatchful                          | Logo maker |
-|                                     | Tailor Brands                    | Brand creation AI |
-|                                     | Namecheap Logo Maker            | Logo design AI |
-| **Other Specialized AI Tools**    | Deep Nostalgia                   | Photo animation |
-|                                     | DeepL                             | Machine translation |
-|                                     | Unbabel                           | Translation AI |
-|                                     | SaneBox                           | Email prioritization |
-|                                     | Supernormal                      | Meeting assistant |
-|                                     | Fireflies                         | Meeting assistant |
-|                                     | tl;dv                             | Video meeting AI |
-|                                     | Sembly AI                        | Meeting assistant |
-|                                     | Synthesys                        | Voice/video AI |
-|                                     | DeepBrain                         | Video AI |
-|                                     | CopyMonkey                       | Amazon listing AI |
-|                                     | Crayo                             | Clip creation AI |
-|                                     | BatchTable                       | Image metadata AI |
-|                                     | Remini                             | Photo enhancement |
-|                                     | ClipDrop                          | AI image edits |
-|                                     | Let's Enhance                    | Image upscaling AI |
-|                                     | Remove.bg                          | Background removal AI |
-| **AI Tool Directories**           | Insidr.ai                        | Directory of AI tools |
-|                                     | Futurepedia                       | Searchable AI directory |
-|                                     | aitoolsdirectory.com            | Searchable AI directory |
-|                                     | There’s An AI For That           | Searchable AI directory |
-|                                     | TopAI.tools                       | Searchable AI directory |
-|                                     | Product Hunt AI Tools           | Directory of AI product launches |
-|                                     | Scribd “Top 300 AI Tools”       | Shared list of AI tools |
 
 
----
+
 ## 📊 Project Experience Highlights
 
 - ✅ **2.5+ Years** of real-time project experience  
@@ -695,6 +427,173 @@
 - 🎯 **AI-PM Toolkit** – Model-to-product mapping with business metrics  
 - 🤝 **Analytics Consulting** – End-to-end ML deployment for retail analytics  
 - 🧭 **E-learning AI Architect** – Quiz recommendation system with LLMs  
+
+---
+
+## 🧠 Categorized AI Tools (300+)
+
+> Organized by Category | Includes Tool Name, Description | Two-column Layout | Tab-Separated by Category
+
+---
+
+### 🤖 General AI Assistants & Chatbots
+
+| **Tool**        | **Description**                                          |
+| --------------- | -------------------------------------------------------- |
+| ChatGPT         | OpenAI’s conversational AI model for general assistance. |
+| Gemini          | Google’s powerful chat and reasoning AI assistant.       |
+| Meta AI         | Facebook’s conversational research assistant.            |
+| Claude          | Anthropic’s safety-aligned AI model.                     |
+| Perplexity AI   | Chat and search hybrid with citations.                   |
+| Grok            | X’s (Twitter) conversational AI bot.                     |
+| DeepSeek        | AI search engine with LLM interface.                     |
+| Jasper AI       | AI for marketing, copywriting, and teams.                |
+| You.com         | Search engine with built-in AI tools.                    |
+| Pi AI           | Emotional intelligence-based personal AI.                |
+| Zapier Agents   | Automation with natural language.                        |
+| Andi            | Visual search engine with chat capability.               |
+| Personal AI     | Memory-based AI chat assistant.                          |
+| Zapier Chatbots | Build workflow-driven chatbots.                          |
+
+---
+
+### 📊 Data Science, ML & Analytics
+
+| **Tool**      | **Description**                                |
+| ------------- | ---------------------------------------------- |
+| TensorFlow    | Google’s deep learning framework.              |
+| PyTorch       | Meta’s open-source machine learning framework. |
+| Keras         | Python-based neural network API.               |
+| Scikit-learn  | Traditional ML tools in Python.                |
+| XGBoost       | Scalable gradient boosting.                    |
+| LightGBM      | Fast, efficient tree boosting.                 |
+| FastAI        | Simplified high-level PyTorch framework.       |
+| H2O.ai        | Automated ML and explainable AI.               |
+| DataRobot     | Enterprise-grade AutoML.                       |
+| Watson Studio | IBM’s ML and model deployment platform.        |
+| KNIME         | Visual data analytics and workflow.            |
+| RapidMiner    | Predictive analytics and ML GUI.               |
+| Alteryx       | Analytics automation platform.                 |
+| Tableau       | Data visualization and dashboarding.           |
+| Surfer        | SEO insights powered by AI.                    |
+| Dataiku       | Collaborative data science workspace.          |
+| Orange        | Open-source visual programming for ML.         |
+| Datarama      | Risk analysis with AI.                         |
+| BigML         | User-friendly machine learning.                |
+| Weka          | GUI-based ML toolkit.                          |
+| MLflow        | ML lifecycle management.                       |
+| DVC           | Version control for datasets and models.       |
+
+---
+
+### 🧠 Deep Learning & Computer Vision
+
+| **Tool**             | **Description**                           |
+| -------------------- | ----------------------------------------- |
+| OpenCV               | Real-time computer vision library.        |
+| YOLO                 | Real-time object detection model.         |
+| Detectron2           | Facebook’s object detection platform.     |
+| Caffe                | Deep learning framework for visual tasks. |
+| DeepFaceLab          | Deepfake and face recognition.            |
+| PaddlePaddle         | Open-source DL platform by Baidu.         |
+| MMDetection          | Modular object detection framework.       |
+| Face++               | Facial recognition API.                   |
+| Clarifai             | AI-powered image and video recognition.   |
+| DeepArt              | Artistic neural style transfer.           |
+| Deep Dream Generator | Neural art visualization.                 |
+
+---
+
+### 💻 Developer Tools & Code Generation
+
+| **Tool**             | **Description**                  |
+| -------------------- | -------------------------------- |
+| GitHub Copilot       | Code auto-completion via AI.     |
+| Tabnine              | AI assistant for multiple IDEs.  |
+| Amazon CodeWhisperer | Real-time code suggestions.      |
+| CodeT5               | Text-to-code transformer.        |
+| Cursor AI            | AI pair programmer in your IDE.  |
+| Replit AI            | Browser-based coding assistant.  |
+| Qodo                 | Code generation from prompts.    |
+| Bubble               | Visual web development.          |
+| Bolt                 | AI-powered UI development.       |
+| v0                   | Webpage generation from prompts. |
+| Super.so             | Landing page generation tool.    |
+| Kite                 | AI coding assistant.             |
+| Codiga               | Static code analysis AI.         |
+| Snyk AI              | Security scanning for codebases. |
+
+---
+
+### ☁️ Cloud AI & Platforms
+
+| **Tool**         | **Description**                           |
+| ---------------- | ----------------------------------------- |
+| Google Cloud AI  | Cloud ML infrastructure by Google.        |
+| Amazon SageMaker | End-to-end ML pipeline service.           |
+| Azure AI         | Microsoft’s cloud AI suite.               |
+| Oracle Cloud AI  | Enterprise AI platform.                   |
+| Alibaba Cloud AI | China’s leading AI platform.              |
+| IBM Cloud AI     | Enterprise AI development and deployment. |
+| Databricks       | Unified data and AI workspace.            |
+| Snowflake AI     | Cloud data warehouse with ML.             |
+| Paperspace       | Cloud GPU for ML training.                |
+
+---
+
+### 🔊 Audio AI Tools
+
+| **Tool**      | **Description**                        |
+| ------------- | -------------------------------------- |
+| ElevenLabs    | AI voice generation and cloning.       |
+| Murf AI       | Studio-quality AI voiceover.           |
+| Descript      | Transcription and podcast editing.     |
+| Krisp         | Real-time noise cancellation.          |
+| Cleanvoice AI | Podcast noise cleanup.                 |
+| Riverside     | Podcast recording and enhancement.     |
+| Podcastle     | All-in-one podcast creation tool.      |
+| Auphonic      | Smart audio post-production.           |
+| AudioShake    | Separate vocals from background music. |
+
+---
+
+### 🎥 Video AI Tools
+
+| **Tool**   | **Description**                   |
+| ---------- | --------------------------------- |
+| Synthesia  | AI avatar video generation.       |
+| Runway     | Generative video editing suite.   |
+| OpusClip   | Auto-cut long videos into clips.  |
+| Pictory    | Video from blog post.             |
+| Filmora AI | Video editor with AI support.     |
+| DeepBrain  | Talking avatar generation.        |
+| VEED       | Browser-based video editing.      |
+| Lumen5     | Social video maker.               |
+| InVideo    | Professional video editor.        |
+| Wisecut    | Auto-caption and summarize video. |
+| HeyGen     | Realistic avatar-based videos.    |
+
+---
+
+### 🖼️ Image AI Tools
+
+| **Tool**           | **Description**                   |
+| ------------------ | --------------------------------- |
+| Midjourney         | Text-to-image generation.         |
+| DALL·E             | OpenAI’s image generation model.  |
+| Stable Diffusion   | Open-source image generator.      |
+| Canva Magic Studio | AI design tools within Canva.     |
+| Adobe Firefly      | AI for creative professionals.    |
+| Looka              | Logo generator using AI.          |
+| Ideogram           | Text + image diffusion.           |
+| ImgLarger          | AI upscaling.                     |
+| Remove.bg          | Background remover.               |
+| Remini             | Image sharpening and enhancement. |
+| ClipDrop           | AI image cleanup.                 |
+| Fotor AI           | Browser-based photo edits.        |
+| Artbreeder         | Evolve AI-generated faces/images. |
+
+... *(continued in next update if needed)*
 
 ---
 
