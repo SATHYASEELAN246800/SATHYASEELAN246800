@@ -87,19 +87,19 @@
   <img src="https://img.icons8.com/color/48/jenkins.png" title="Jenkins" width="40"/>
   <img src="https://img.icons8.com/fluency/48/command-line.png" title="Command Line" width="40"/>
   <img src="https://img.icons8.com/color/48/linux.png" title="Linux" width="40"/>
-  <img src="https://img.icons8.com/ios/50/terminal-settings.png" title="Shell Scripting" width="40"/>
-  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman" width="40"/>
-  <img src="https://img.icons8.com/color/48/aws.png" title="AWS" width="40"/>
+  <img src="https://img.icons8.com/water-color/50/ssh.png" title="SSH" width="40"/>
+  <img src="https://img.icons8.com/dusk/64/postman-api.png" title="Postman API" width="40"/>
+  <img src="https://img.icons8.com/nolan/50/amazon-web-services.png" title="AWS" width="40"/>
   <img src="https://img.icons8.com/color/48/azure-1.png" title="Azure DevOps" width="40"/>
   <img src="https://img.icons8.com/color/48/google-cloud-platform.png" title="Google Cloud" width="40"/>
   <img src="https://img.icons8.com/fluency/48/zapier.png" title="Zapier" width="40"/>
   <img src="https://img.icons8.com/color/48/api-settings.png" title="API Automation" width="40"/>
   <img src="https://img.icons8.com/color/48/deployment.png" title="Deployment" width="40"/>
-  <img src="https://img.icons8.com/ios/50/cicd.png" title="CI/CD" width="40"/>
+  <img src="https://img.icons8.com/clouds/100/cd.png" title="CD" width="40"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" width="40"/>
-  <img src="https://img.icons8.com/color/48/yaml.png" title="YAML" width="40"/>
-  <img src="https://img.icons8.com/color/48/github-actions.png" title="GitHub Actions" width="40"/>
-  <img src="https://img.icons8.com/color/48/pulumi.png" title="Pulumi" width="40"/>
+  <img src="https://img.icons8.com/ios/50/xaml.png" title="XAML" width="40"/>
+  <img src="https://img.icons8.com/plasticine/100/github-squared.png" title="GitHub" width="40"/>
+  <img src="https://img.icons8.com/color/48/deployment.png" title="Deployment" width="40"/>
   <img src="https://img.icons8.com/color/48/cloudflare.png" title="Cloudflare" width="40"/>
   <img src="https://img.icons8.com/color/48/terraform.png" title="Terraform" width="40"/>
 </p>
