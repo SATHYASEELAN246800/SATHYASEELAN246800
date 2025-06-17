@@ -1,6 +1,6 @@
 
 ---
-## 👋 Hi there, I'm Sathya Seelan
+# 👋 Hi there, I'm Sathya Seelan
 
 - 🔭 Currently focusing on **Generative AI application development**
 - 🤝 Looking to **collaborate on AI/ML projects**
@@ -124,14 +124,6 @@
   <img src="https://img.icons8.com/pulsar-gradient/48/home-screen.png" title="Home Screen" width="40"/>
   <img src="https://img.icons8.com/fluency/48/system-information.png" title="System Information" width="40"/>
 </p>
-
----
-<p align="center">
-  <a href="https://giphy.com/gifs/cbs-hawaii-five-0-1004-U77IPoKMZUpzymdNZh">
-    <img src="https://media.giphy.com/media/U77IPoKMZUpzymdNZh/giphy.gif" alt="Watch the GIF" width="700"/>
-  </a>
-</p>
-
 
 
 ---
