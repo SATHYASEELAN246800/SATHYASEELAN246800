@@ -45,7 +45,6 @@
 </p>
 
 ---
-
 ### 🤖 AI / ML / Data Science / Generative AI  
 🧠 I'm focused on designing intelligent systems that learn, predict, and generate content.  
 📊 From model training to real-world inference, I work across the full AI development pipeline.
@@ -55,23 +54,23 @@
   <img src="https://img.icons8.com/color/48/brain.png" title="Machine Learning" width="40"/>
   <img src="https://img.icons8.com/fluency/48/bot.png" title="Chatbots / Generative AI" width="40"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" width="40"/>
-  <img src="https://img.icons8.com/arcade/64/pytorch.png" title="PyTorch" width="64"/>
+  <img src="https://img.icons8.com/arcade/64/pytorch.png" title="PyTorch" width="40"/>
   <img src="https://img.icons8.com/color/48/pandas.png" title="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" width="40"/>
   <img src="https://img.icons8.com/color/48/matplotlib.png" title="Matplotlib" width="40"/>
-  <img src="https://img.icons8.com/color/48/analytics.png" title="Analytics" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter" width="48"/>
-  <img src="https://img.icons8.com/fluency/48/anaconda--v2.png" title="Anaconda" width="48"/>
-  <img src="https://img.icons8.com/ios/50/chatgpt.png" title="ChatGPT" width="50"/>
-  <img src="https://img.icons8.com/emoji/48/link-emoji.png" title="Link" width="48"/>
-  <img src="https://img.icons8.com/ios/50/machine-learning.png" title="Machine Learning" width="50"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" title="Data Science" width="64"/>
+  <img src="https://img.icons8.com/color/48/analytics.png" title="Analytics" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/anaconda--v2.png" title="Anaconda" width="40"/>
+  <img src="https://img.icons8.com/ios/50/chatgpt.png" title="ChatGPT" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/link-emoji.png" title="Link" width="40"/>
+  <img src="https://img.icons8.com/ios/50/machine-learning.png" title="Machine Learning" width="40"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-data-science-data-analytics-flaticons-lineal-color-flat-icons-5.png" title="Data Science" width="40"/>
   <img src="https://img.icons8.com/color/48/google-colab.png" title="Google Colab" width="40"/>
-  <img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" title="Scikit-learn" width="64"/>
-  <img src="https://img.icons8.com/stickers/100/serial-tasks.png" title="Serial Tasks" width="100"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" title="Kaggle" width="24"/>
-  <img src="https://img.icons8.com/arcade/64/data-protection.png" title="Data Protection" width="64"/>
-  <img src="https://img.icons8.com/3d-fluency/94/hugging-face.png" title="Hugging Face" width="94"/>
+  <img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" title="Scikit-learn" width="40"/>
+  <img src="https://img.icons8.com/stickers/100/serial-tasks.png" title="Serial Tasks" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png" title="Kaggle" width="40"/>
+  <img src="https://img.icons8.com/arcade/64/data-protection.png" title="Data Protection" width="40"/>
+  <img src="https://img.icons8.com/3d-fluency/94/hugging-face.png" title="Hugging Face" width="40"/>
   <img src="https://img.icons8.com/color/48/azure-1.png" title="Azure AI" width="40"/>
 </p>
 
