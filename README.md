@@ -6,12 +6,14 @@
 - 🤝 Looking to **collaborate on AI/ML projects**
 - 💬 Passionate about building intelligent systems that solve real-world problems
 
-
-## 🚀 My Passion
+## 🚀 My Passion & Tools I Use
 
 ---
 
-### 👨‍💻 Full Stack Development
+### 👨‍💻 Full Stack Development  
+💻 I specialize in end-to-end web and app development using modern frameworks and libraries.  
+🌐 From front-end UI/UX to backend APIs and database management, I build complete digital solutions.
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/react-native.png" title="React.js" width="40"/>
   <img src="https://img.icons8.com/color/48/vue-js.png" title="Vue.js" width="40"/>
@@ -19,94 +21,115 @@
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" width="40"/>
   <img src="https://img.icons8.com/color/48/express.png" title="Express.js" width="40"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" width="40"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase" width="40"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase" width="40"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" width="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="40"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript" width="40"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" width="40"/>
   <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" width="40"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" title="Tailwind CSS" width="40"/>
+  <img src="https://img.icons8.com/color/48/redux.png" title="Redux" width="40"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png" title="Next.js" width="40"/>
+  <img src="https://img.icons8.com/ios/50/django.png" title="Django" width="40"/>
+  <img src="https://img.icons8.com/color/48/php.png" title="PHP" width="40"/>
+  <img src="https://img.icons8.com/color/48/laravel.png" title="Laravel" width="40"/>
+  <img src="https://img.icons8.com/color/48/api.png" title="REST API" width="40"/>
+  <img src="https://img.icons8.com/color/48/postgresql.png" title="PostgreSQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/sql.png" title="SQL" width="40"/>
 </p>
 
 ---
 
-### 🤖 AI / ML / Generative AI
+### 🤖 AI / ML / Data Science / Generative AI  
+🧠 I'm focused on designing intelligent systems that learn, predict, and generate content.  
+📊 From model training to real-world inference, I work across the full AI development pipeline.
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Artificial Intelligence" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/brain.png" title="Machine Learning" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/bot.png" title="Generative AI / Chatbot" width="40"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" title="Pandas" width="40"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" width="40"/>
+  <img src="https://img.icons8.com/color/48/brain.png" title="Machine Learning" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/bot.png" title="Chatbots & Generative AI" width="40"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" width="40"/>
   <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch" width="40"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" title="Pandas" width="40"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" width="40"/>
+  <img src="https://img.icons8.com/color/48/matplotlib.png" title="Matplotlib" width="40"/>
+  <img src="https://img.icons8.com/color/48/seaborn.png" title="Seaborn" width="40"/>
+  <img src="https://img.icons8.com/color/48/jupyter.png" title="Jupyter Notebook" width="40"/>
+  <img src="https://img.icons8.com/ios/50/anaconda--v2.png" title="Anaconda" width="40"/>
+  <img src="https://img.icons8.com/ios/50/openai.png" title="OpenAI" width="40"/>
+  <img src="https://img.icons8.com/ios/50/langchain.png" title="LangChain" width="40"/>
+  <img src="https://img.icons8.com/ios/50/model.png" title="Model Training" width="40"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-data-science-data-science-flat-flat-juicy-fish.png" title="Data Science" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/brain-emoji.png" title="Cognitive AI" width="40"/>
+  <img src="https://img.icons8.com/color/48/google-colab.png" title="Google Colab" width="40"/>
+  <img src="https://img.icons8.com/color/48/scikit-learn.png" title="Scikit-learn" width="40"/>
+  <img src="https://img.icons8.com/color/48/mlflow.png" title="MLflow" width="40"/>
   <img src="https://img.icons8.com/color/48/kaggle.png" title="Kaggle" width="40"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="Jupyter/VS Code" width="40"/>
-  <img src="https://img.icons8.com/color/48/google-cloud.png" title="Vertex AI / Cloud AI" width="40"/>
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-model-artificial-intelligence-flat-icons-inmotus-design.png" title="Model Building" width="40"/>
-  <img src="https://img.icons8.com/ios/50/neural.png" title="Neural Networks" width="40"/>
+  <img src="https://img.icons8.com/color/48/databricks.png" title="Databricks" width="40"/>
+  <img src="https://img.icons8.com/color/48/huggingface.png" title="Hugging Face" width="40"/>
+  <img src="https://img.icons8.com/color/48/azure.png" title="Azure AI" width="40"/>
 </p>
 
 ---
 
-### 🛠️ Automation & DevOps
+### 🔧 DevOps & Automation  
+⚙️ I integrate CI/CD pipelines, automate workflows, and deploy scalable containerized apps.  
+🚀 With tools like Docker, GitHub Actions, and cloud platforms, I ensure smooth delivery.
+
 <p align="center">
-  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" width="40"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes" width="40"/>
   <img src="https://img.icons8.com/color/48/github.png" title="GitHub" width="40"/>
   <img src="https://img.icons8.com/color/48/git.png" title="Git" width="40"/>
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker" width="40"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes" width="40"/>
   <img src="https://img.icons8.com/color/48/jenkins.png" title="Jenkins" width="40"/>
-  <img src="https://img.icons8.com/color/48/selenium-test-automation.png" title="Selenium" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/command-line.png" title="CLI" width="40"/>
   <img src="https://img.icons8.com/color/48/linux.png" title="Linux" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/command-line.png" title="CLI Tools" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/terminal-settings.png" title="Automation Scripts" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-api-platform-for-building-and-using-apis-logo-color-tal-revivo.png" title="Postman" width="40"/>
+  <img src="https://img.icons8.com/ios/50/terminal-settings.png" title="Shell Scripting" width="40"/>
+  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman" width="40"/>
+  <img src="https://img.icons8.com/color/48/aws.png" title="AWS" width="40"/>
   <img src="https://img.icons8.com/color/48/azure-1.png" title="Azure DevOps" width="40"/>
-  <img src="https://img.icons8.com/color/48/aws.png" title="AWS Automation" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/api-settings.png" title="API Automation" width="40"/>
+  <img src="https://img.icons8.com/color/48/google-cloud-platform.png" title="Google Cloud" width="40"/>
+  <img src="https://img.icons8.com/color/48/zapier.png" title="Zapier" width="40"/>
+  <img src="https://img.icons8.com/color/48/automation.png" title="Automation Scripts" width="40"/>
+  <img src="https://img.icons8.com/color/48/api-settings.png" title="API Deployment" width="40"/>
   <img src="https://img.icons8.com/fluency/48/continuous-delivery.png" title="CI/CD" width="40"/>
+  <img src="https://img.icons8.com/color/48/vscode.png" title="VS Code" width="40"/>
+  <img src="https://img.icons8.com/color/48/yaml.png" title="YAML" width="40"/>
+  <img src="https://img.icons8.com/ios/50/github-actions.png" title="GitHub Actions" width="40"/>
+  <img src="https://img.icons8.com/color/48/pulumi.png" title="Pulumi" width="40"/>
+  <img src="https://img.icons8.com/ios/50/cloudflare.png" title="Cloudflare Automation" width="40"/>
+  <img src="https://img.icons8.com/ios/50/terraform.png" title="Terraform" width="40"/>
 </p>
 
 ---
 
-### 📱 Mobile Customization & UI Tweaks
+### 📱 Mobile Customization & UI Design  
+🎨 I’m passionate about customizing mobile UI/UX for a seamless and stunning user experience.  
+📱 From widgets to launchers, I love tweaking Android homescreens with precision.
+
 <p align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/smartphone.png" title="Mobile UI" width="40"/>
+  <img src="https://img.icons8.com/3d-fluency/94/smartphone.png" title="Smartphone Customization" width="40"/>
   <img src="https://img.icons8.com/pulsar-gradient/48/smartphone-approved.png" title="HomeScreen Setup" width="40"/>
   <img src="https://img.icons8.com/3d-fluency/94/slider.png" title="Widgets" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/paint-palette.png" title="Themes & Personalization" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/mobile-phone.png" title="Launcher Customization" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/settings.png" title="App Tweaks" width="40"/>
+  <img src="https://img.icons8.com/3d-fluency/94/paint-palette.png" title="Themes & Icons" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/mobile-phone.png" title="Launcher Setup" width="40"/>
+  <img src="https://img.icons8.com/3d-fluency/94/settings.png" title="Settings UI" width="40"/>
+  <img src="https://img.icons8.com/ios/50/lock-screen.png" title="Lock Screen" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/wrench-emoji.png" title="Tweaks / ROMs" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/artist-palette.png" title="Design Tools" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/camera-emoji.png" title="Camera Mods" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/star-emoji.png" title="Icon Packs" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/sparkles.png" title="Visual Effects" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/satellite-antenna.png" title="Gesture Controls" width="40"/>
+  <img src="https://img.icons8.com/3d-fluency/94/gallery.png" title="Home Wallpaper" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/hammer-and-wrench.png" title="Customization Tools" width="40"/>
+  <img src="https://img.icons8.com/3d-fluency/94/lock.png" title="Secure Lockscreen Mods" width="40"/>
   <img src="https://img.icons8.com/3d-fluency/94/control-panel.png" title="Control Center" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/gallery.png" title="Icon Packs" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/color-dropper.png" title="Accent Color" width="40"/>
-  <img src="https://img.icons8.com/ios/50/lock-screen.png" title="Lock Screen Custom" width="40"/>
-  <img src="https://img.icons8.com/ios/50/settings.png" title="Settings UI" width="40"/>
-  <img src="https://img.icons8.com/external-others-phat-plus/64/external-widget-ui-essentials-others-phat-plus.png" title="Advanced Widgets" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/star-emoji.png" title="Premium Themes" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/wrench-emoji.png" title="Custom ROM / Tweaks" width="40"/>
-</p>
-
----
-
-### 📚 Personal Interests
-<p align="center">
-  <img src="https://img.icons8.com/3d-fluency/94/bookmark.png" title="Reading" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/infinity.png" title="Innovation & Creativity" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/video-game.png" title="Gaming" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/light-bulb.png" title="Ideas & Problem Solving" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/microscope.png" title="Research" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/pencil.png" title="Journaling" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/musical-note.png" title="Music" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/movie-camera.png" title="Movie Buff" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/camera-emoji.png" title="Photography" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/compass-emoji.png" title="Exploring" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/artist-palette.png" title="Design" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/books.png" title="Study & Learning" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/globe-showing-americas.png" title="Culture & Languages" width="40"/>
-  <img src="https://img.icons8.com/emoji/48/man-technologist-medium.png" title="Tech Community" width="40"/>
+  <img src="https://img.icons8.com/ios/50/brightness.png" title="Status Bar Tweaks" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/man-technologist.png" title="Tech Setup" width="40"/>
+  <img src="https://img.icons8.com/ios/50/theme-settings.png" title="UI Theme Manager" width="40"/>
+  <img src="https://img.icons8.com/ios/50/developer-mode.png" title="Developer Options" width="40"/>
+  <img src="https://img.icons8.com/emoji/48/magic-wand.png" title="Visual Mods" width="40"/>
 </p>
 
 
