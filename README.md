@@ -7,6 +7,13 @@
   <em>“Turning data into impact-driven insights.”</em>
 
 
+<p align="center">
+  <a href="https://giphy.com/gifs/cbs-hawaii-five-0-1004-U77IPoKMZUpzymdNZh">
+    <img src="https://media.giphy.com/media/U77IPoKMZUpzymdNZh/giphy.gif" alt="Watch the GIF" width="700"/>
+  </a>
+</p>
+
+
 
 
 </p>
