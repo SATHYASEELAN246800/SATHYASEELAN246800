@@ -34,16 +34,9 @@
 
 ## 🚀 Tools I Use
 
-
-
 ### 👨‍💻 Full Stack Development  
+
 💻 I specialize in end-to-end web and app development using modern frameworks and libraries.  
-🌐 From front-end UI/UX to backend APIs and database management, I build complete digital solutions.
-## 🔥 My Technology Passion & Expertise
-
-
-
-### 👨‍💻 Full Stack Development  
 🌐 From front-end UI/UX to backend APIs and database management, I build complete digital solutions.
 
 <p align="center">
@@ -70,6 +63,7 @@
   <img src="https://img.icons8.com/ios/50/sql.png" title="SQL" width="40"/>
 </p>
 
+---
 
 ### 🤖 AI / ML / Data Science / Generative AI  
 🧠 I'm focused on designing intelligent systems that learn, predict, and generate content.  
@@ -100,7 +94,7 @@
   <img src="https://img.icons8.com/color/48/azure-1.png" title="Azure AI" width="40"/>
 </p>
 
-
+---
 
 ### ⚙️ DevOps & Automation  
 🚀 I integrate CI/CD pipelines, automate workflows, and deploy scalable containerized apps.
@@ -130,12 +124,12 @@
   <img src="https://img.icons8.com/color/48/terraform.png" title="Terraform" width="40"/>
 </p>
 
-
+---
 
 ### 📱 Mobile UI Customization  
 🎨 I’m passionate about crafting seamless Android UI/UX, from widgets to launcher setup.
 
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/emoji/48/mobile-phone.png" title="Mobile UI" width="40"/>
   <img src="https://img.icons8.com/color/48/widgets.png" title="Widgets" width="40"/>
   <img src="https://img.icons8.com/3d-fluency/94/paint-palette.png" title="Themes & Icons" width="40"/>
