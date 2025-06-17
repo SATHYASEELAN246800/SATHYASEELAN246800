@@ -1,11 +1,10 @@
 
+---
+## 👋 Hi there, I'm Sathya Seelan
 
-
-<h1 align="center">📊 Data Science Portfolio</h1>
-
-<p align="center">
-  <em>“Turning data into impact-driven insights.”</em>
-
+- 🔭 Currently focusing on **Generative AI application development**
+- 🤝 Looking to **collaborate on AI/ML projects**
+- 💬 Passionate about building intelligent systems that solve real-world problems
 
 <p align="center">
   <a href="https://giphy.com/gifs/cbs-hawaii-five-0-1004-U77IPoKMZUpzymdNZh">
@@ -15,10 +14,9 @@
 
 
 
-
-</p>
-
 ---
+
+
 ## 👨‍💻 About Sathya
 
 **Sathya Seelan**  
