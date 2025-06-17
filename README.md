@@ -6,7 +6,7 @@
 <p align="center">
   <em>“Turning data into impact-driven insights.”</em>
 
-https://github.com/user-attachments/assets/e899718c-c237-4b3f-9892-d862c212d571
+
 
 
 </p>
