@@ -38,7 +38,7 @@
   <img src="https://img.icons8.com/color/48/nextjs.png" title="Next.js" width="40"/>
   <img src="https://img.icons8.com/color/48/django.png" title="Django" width="40"/>
   <img src="https://img.icons8.com/color/48/php.png" title="PHP" width="40"/>
-  <img src="https://img.icons8.com/color/48/laravel.png" title="Laravel" width="40"/>
+  <img width="64" height="64" src="https://img.icons8.com/arcade/64/laravel.png" alt="laravel"/>
   <img src="https://img.icons8.com/fluency/48/rest-api.png" title="REST API" width="40"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="40"/>
   <img src="https://img.icons8.com/ios/50/sql.png" title="SQL" width="40"/>
