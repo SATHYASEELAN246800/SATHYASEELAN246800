@@ -5,11 +5,32 @@
 - 🔭 Currently focusing on **Generative AI application development**
 - 🤝 Looking to **collaborate on AI/ML projects**
 - 💬 Passionate about building intelligent systems that solve real-world problems
+## 🚀 My Passion:
 
-# My passion:  
- <img src="https://img.icons8.com/3d-fluency/94/bookmark.png" alt="bookmark" width="24" height="24"/>
- <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-programming-flaticons-flat-flat-icons-2.png" alt="external-full-stack-computer-programming-flaticons-flat-flat-icons-2"/>
- <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/smartphone-approved.png" alt="smartphone-approved"/>
+<p align="center">
+  <!-- Learning, AI, Full Stack -->
+  <img src="https://img.icons8.com/3d-fluency/94/bookmark.png" alt="Reading" width="40" title="Reading"/>
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-programming-flaticons-flat-flat-icons-2.png" alt="Full Stack Dev" width="40" title="Full Stack Development"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="AI/ML" width="40" title="Artificial Intelligence"/>
+  <img src="https://img.icons8.com/color/48/deep-learning.png" alt="Deep Learning" width="40" title="Deep Learning"/>
+  <img src="https://img.icons8.com/color/48/data-science.png" alt="Data Science" width="40" title="Data Science"/>
+
+  <!-- Full Stack Technologies -->
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" title="React.js"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" title="MongoDB"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" width="40" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40" title="JavaScript"/>
+
+  <!-- Automation Tools -->
+  <img src="https://img.icons8.com/color/48/selenium-test-automation.png" alt="Selenium" width="40" title="Selenium"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="40" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins" width="40" title="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub Actions" width="40" title="GitHub Actions"/>
+</p>
 
 <p align="center">
   <a href="https://giphy.com/gifs/cbs-hawaii-five-0-1004-U77IPoKMZUpzymdNZh">
