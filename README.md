@@ -39,7 +39,7 @@
   <img src="https://img.icons8.com/color/48/django.png" title="Django" width="40"/>
   <img src="https://img.icons8.com/color/48/php.png" title="PHP" width="40"/>
   <img src="https://img.icons8.com/arcade/64/laravel.png" title="Laravel" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/rest-api.png" title="REST API" width="40"/>
+  <img src="https://img.icons8.com/glyph-neue/64/api-settings.png" title="API Settings" width="64"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="40"/>
   <img src="https://img.icons8.com/ios/50/sql.png" title="SQL" width="40"/>
 </p>
@@ -55,12 +55,12 @@
   <img src="https://img.icons8.com/color/48/brain.png" title="Machine Learning" width="40"/>
   <img src="https://img.icons8.com/fluency/48/bot.png" title="Chatbots / Generative AI" width="40"/>
   <img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" width="40"/>
-  <img src="https://img.icons8.com/color/48/pytorch.png" title="PyTorch" width="40"/>
+  <img src="https://img.icons8.com/arcade/64/pytorch.png" title="PyTorch" width="64"/>
   <img src="https://img.icons8.com/color/48/pandas.png" title="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" width="40"/>
   <img src="https://img.icons8.com/color/48/matplotlib.png" title="Matplotlib" width="40"/>
-  <img src="https://img.icons8.com/color/48/seaborn.png" title="Seaborn" width="40"/>
-  <img src="https://img.icons8.com/color/48/jupyter.png" title="Jupyter Notebook" width="40"/>
+  <img src="https://img.icons8.com/color/48/analytics.png" title="Analytics" width="48"/>
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" title="Jupyter" width="48"/>
   <img src="https://img.icons8.com/color/48/anaconda--v2.png" title="Anaconda" width="40"/>
   <img src="https://img.icons8.com/ios/50/openai.png" title="OpenAI" width="40"/>
   <img src="https://img.icons8.com/ios/50/langchain.png" title="LangChain" width="40"/>
