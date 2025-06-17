@@ -6,6 +6,32 @@
 - 🤝 Looking to **collaborate on AI/ML projects**
 - 💬 Passionate about building intelligent systems that solve real-world problems
 
+
+
+---
+
+
+## 👨‍💻 About Sathya
+
+**Sathya Seelan**  
+*Data Science Innovator*  
+📞 Phone: `+91 6381273755`  
+💬 WhatsApp: `6381273755`  
+🔗 LinkedIn: [Sathya Seelan](#)
+
+> Passionate Data Scientist with **2.5+ years of real-time project experience**, currently pursuing an engineering degree at **IFET College of Engineering**, Villupuram.  
+> Despite being a 2nd-year student, I've successfully deployed **25+ ML models** in production environments.
+
+💡 My expertise spans across **Python**, **R**, **TensorFlow**, **PyTorch**, and cloud platforms.  
+💼 I specialize in **Machine Learning**, **Deep Learning**, and **AI-driven solutions** that drive business growth and innovation.
+
+🧑‍💻 Beyond data science, I'm passionate about **full-stack development**, **automation**, and staying at the forefront of **AI research and development**.
+
+
+---
+
+
+
 ## 🚀 Tools I Use
 
 
@@ -125,25 +151,6 @@
   <img src="https://img.icons8.com/fluency/48/system-information.png" title="System Information" width="40"/>
 </p>
 
-
----
-
-
-## 👨‍💻 About Sathya
-
-**Sathya Seelan**  
-*Data Science Innovator*  
-📞 Phone: `+91 6381273755`  
-💬 WhatsApp: `6381273755`  
-🔗 LinkedIn: [Sathya Seelan](#)
-
-> Passionate Data Scientist with **2.5+ years of real-time project experience**, currently pursuing an engineering degree at **IFET College of Engineering**, Villupuram.  
-> Despite being a 2nd-year student, I've successfully deployed **25+ ML models** in production environments.
-
-💡 My expertise spans across **Python**, **R**, **TensorFlow**, **PyTorch**, and cloud platforms.  
-💼 I specialize in **Machine Learning**, **Deep Learning**, and **AI-driven solutions** that drive business growth and innovation.
-
-🧑‍💻 Beyond data science, I'm passionate about **full-stack development**, **automation**, and staying at the forefront of **AI research and development**.
 
 ---
 
