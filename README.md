@@ -7,9 +7,9 @@
 - 💬 Passionate about building intelligent systems that solve real-world problems
 
 # My passion:  
-### 1.Research                <img src="https://img.icons8.com/3d-fluency/94/bookmark.png" alt="bookmark" width="24" height="24"/>
-### 2.wibe coding contributer <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-programming-flaticons-flat-flat-icons-2.png" alt="external-full-stack-computer-programming-flaticons-flat-flat-icons-2"/>
-### 3.Mobile customization    <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/smartphone-approved.png" alt="smartphone-approved"/>
+ <img src="https://img.icons8.com/3d-fluency/94/bookmark.png" alt="bookmark" width="24" height="24"/>
+ <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-full-stack-computer-programming-flaticons-flat-flat-icons-2.png" alt="external-full-stack-computer-programming-flaticons-flat-flat-icons-2"/>
+ <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/smartphone-approved.png" alt="smartphone-approved"/>
 
 <p align="center">
   <a href="https://giphy.com/gifs/cbs-hawaii-five-0-1004-U77IPoKMZUpzymdNZh">
