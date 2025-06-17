@@ -114,16 +114,15 @@
   <img src="https://img.icons8.com/color/48/widgets.png" title="Widgets" width="40"/>
   <img src="https://img.icons8.com/3d-fluency/94/paint-palette.png" title="Themes & Icons" width="40"/>
   <img src="https://img.icons8.com/emoji/48/wrench-emoji.png" title="Tweaks / ROMs" width="40"/>
-  <img src="https://img.icons8.com/external-others-phat-plus/64/external-widget-ui-essentials-others-phat-plus.png" title="Advanced Widgets" width="40"/>
-  <img src="https://img.icons8.com/3d-fluency/94/app-settings.png" title="Launcher Setup" width="40"/>
+  <img src="https://img.icons8.com/pulsar-color/48/browser-customization.png" title="Browser Customization" width="40"/>
+  <img src="https://img.icons8.com/cute-clipart/64/color-widgets.png" title="Color Widgets" width="40"/>
   <img src="https://img.icons8.com/color/48/settings--v1.png" title="Settings UI" width="40"/>
-  <img src="https://img.icons8.com/color/48/lock-screen.png" title="Lock Screen Customization" width="40"/>
-  <img src="https://img.icons8.com/color/48/camera-settings.png" title="Camera Mods" width="40"/>
-  <img src="https://img.icons8.com/color/48/icon.png" title="Icon Packs" width="40"/>
-  <img src="https://img.icons8.com/color/48/gesture-control.png" title="Gesture Controls" width="40"/>
-  <img src="https://img.icons8.com/color/48/wallpaper.png" title="Home Wallpapers" width="40"/>
-  <img src="https://img.icons8.com/color/48/lock.png" title="Secure Lockscreen" width="40"/>
-  <img src="https://img.icons8.com/color/48/android-settings.png" title="Developer Options" width="40"/>
+  <img src="https://img.icons8.com/dusk/64/security.png" title="Security" width="40"/>
+  <img src="https://img.icons8.com/3d-fluency/94/camera.png" title="Camera" width="40"/>
+  <img src="https://img.icons8.com/pulsar-gradient/48/nft-collection.png" title="NFT Collection" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/applause.png" title="Applause" width="40"/>
+  <img src="https://img.icons8.com/pulsar-gradient/48/home-screen.png" title="Home Screen" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/system-information.png" title="System Information" width="40"/>
 </p>
 
 ---
